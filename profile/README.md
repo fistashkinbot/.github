@@ -6,6 +6,7 @@
 Здесь вы можете найти нас в сети:
 - Наш сайт: [fistashkinbot.github.io](https://fistashkinbot.github.io)
 - Наша страница на GitHub: [github.com/fistashkinbot](https://github.com/fistashkinbot)
+- Наш Discord сервер: [discord.gg/H9XCZSReMj](https://discord.gg/H9XCZSReMj)
 
 ## Проекты
 
